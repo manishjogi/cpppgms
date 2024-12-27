@@ -5,6 +5,7 @@
         "ostream": "cpp",
         "array": "cpp",
         "string_view": "cpp",
-        "new": "cpp"
+        "new": "cpp",
+        "*.tcc": "cpp"
     }
 }
